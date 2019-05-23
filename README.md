@@ -6,3 +6,7 @@
 # The Main Menu
 <img src="screenshot/Screenshot (2).png/">
 
+* To issue book the program calculates number of book present.
+* Automatically increases the number of book when returned.
+
+
