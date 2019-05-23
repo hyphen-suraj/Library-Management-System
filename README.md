@@ -4,5 +4,5 @@
 * To run the program authentication is required.
 <img src="screenshot/authe.png/">
 # The Main Menu
-<img src="screenshot/Screenshot(2).png/">
+<img src="screenshot/Screenshot (2).png/">
 
